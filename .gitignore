@@ -1,0 +1,7 @@
+# Compiled binaries
+pmd/pmd
+hmd/hmd
+
+# Run output logs
+pmd/pmd.out
+hmd/hmd.out
